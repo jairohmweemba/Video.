@@ -28,7 +28,6 @@ Likee_7353028578305835622.mp4" type="video/mp4" autoplay="">
 </video>  
 <video width="340" height="390" controls >  
   <source src="/storage/62BA-1EEA/Abominable.2019.1080p.BluRay.x264-[YTS.LT].mp4" type="video/mp4;" autoplay="">  
-</video> 
-</body>
+</video>
 </html>
 
