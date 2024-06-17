@@ -21,7 +21,7 @@ Likee_7353028578305835622.mp4" type="video/mp4" autoplay="">
     </video>  
  
     <video width="340" height="390" controls>
-                     <source src="/storage/emulated/0/SHAREit/videos/Astrid_S_-_It's_Ok_If_You_Forget_Me_(Lyrics)(360p).mp4" type="video/mp4" autoplay="">
+ <source src="/storage/emulated/0/SHAREit/videos/Astrid_S_-_It's_Ok_If_You_Forget_Me_(Lyrics)(360p).mp4" type="video/mp4" autoplay="">
                      <source src="video.ogg" type="video/ogg;"></video>
 <video width="340" height="390" controls >  
   <source src="/storage/62BA-1EEA/Charming (2018).mp4" type="video/mp4;" autoplay="">  
