@@ -5,7 +5,7 @@
   <title>video</title>
   <title>audio</title>
 </head>
-<Body backgroundcolor="seagreen"/>
+<body bgcolor="green">
  <h1>
   HELLO WELCOME HERE
   </h1>
